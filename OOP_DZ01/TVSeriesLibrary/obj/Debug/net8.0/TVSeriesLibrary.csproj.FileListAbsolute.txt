@@ -1,0 +1,11 @@
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\bin\Debug\net8.0\TVSeriesLibrary.deps.json
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\bin\Debug\net8.0\TVSeriesLibrary.dll
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\bin\Debug\net8.0\TVSeriesLibrary.pdb
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\obj\Debug\net8.0\TVSeriesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\obj\Debug\net8.0\TVSeriesLibrary.AssemblyInfoInputs.cache
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\obj\Debug\net8.0\TVSeriesLibrary.AssemblyInfo.cs
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\obj\Debug\net8.0\TVSeriesLibrary.csproj.CoreCompileInputs.cache
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\obj\Debug\net8.0\TVSeriesLibrary.dll
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\obj\Debug\net8.0\refint\TVSeriesLibrary.dll
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\obj\Debug\net8.0\TVSeriesLibrary.pdb
+G:\Moj disk\FERIT\PR3_04_ObjektnoOrijentiranoProgramiranje\PR3-04 03 Auditorne vježbe\OOP_DZ01\TVSeriesLibrary\obj\Debug\net8.0\ref\TVSeriesLibrary.dll
